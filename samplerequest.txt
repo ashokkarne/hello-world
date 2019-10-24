@@ -1,0 +1,53 @@
+{"batchDate":"20191024","dlrCode":"9606","repCode":"CS888","lookupMethod":{"acctLookup":{"accountNo":77275378,"additionalProperties":{}},"additionalProperties":{}},"srcID":"AGF191000029066","tradeDate":"20191024","fundID":"940","amt":{"amtType":"D","amtValue":"100.00","additionalProperties":{}},"gNRdmtn":"G","bkChequeInfo":{"bkInfo":{"instutNum":"809","branchNum":"16320","bkAcctNum":"248160136","holder":"KERWIN BELLGRANDE","additionalProperties":{}},"additionalProperties":{}},"additionalProperties":{}}
+
+
+
+{ 
+  "docID":"doc123",
+  "batchCode":"1111",
+  "batchDate":"20191024",
+  "batchMsg":"a",
+  "dlrCode":"9606",
+  "repCode":"CS888",
+   "lookupMethod":{ 
+      "acctLookup":{ 
+         "accountNo":77275378,
+         "additionalProperties":{ 
+
+         }
+      },
+      "additionalProperties":{ 
+
+      }
+   },
+  "srcID":"AGF191000029066",
+  "tradeDate":"20191024",
+  "fundID":"940",
+ 
+  "amt":{ 
+    "amtType":"D",
+    "amtValue":"100.00",
+	"additionalProperties":{}
+  },
+  "origDocRecvdInd":"Y",
+  "GNRdmtn":"G",
+  "recvTrackInfo":{ 
+    "instutCode":"HDO",
+    "branchNum":"TD",
+    "recvAcctType":"CASH"
+  },
+  "wdCode":"TAXSEL",
+  "overrideSystematicPlan":"Y",
+  "treatAsAWD":"Y",
+  "sellFee":1000,
+  "waiveUSWT":"Y",
+  "waiveERF":"Y",
+  "waiveDSC":"Y",
+  "waiveReason":"Y",
+  "suppCnfInd":"Y",
+  "suppStmtInd":"Y",
+  "deliveryType":"MAI",
+ "bkChequeInfo":{"bkInfo":{"instutNum":"809","branchNum":"16320","bkAcctNum":"248160136","holder":"KERWIN BELLGRANDE","additionalProperties":{}},"additionalProperties":{}},
+  
+"additionalProperties":{}
+}
