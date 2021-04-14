@@ -4,7 +4,7 @@
 
 { 
   "docID":"doc123",
-  "batchCode":"1111",
+  "batchCode":"2222",
   "batchDate":"20191024",
   "batchMsg":"a",
   "dlrCode":"9606",
